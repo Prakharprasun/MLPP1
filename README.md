@@ -1,1 +1,1 @@
-# MLPP1
+trying to predict closing price of stock using ML
